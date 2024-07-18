@@ -60,8 +60,8 @@ def game_window_init():
     a_button_font = pygame.font.SysFont("Times New Roman", 20)
 
    # storing images (Monopoly board and sample money)
-    moola = pygame.image.load(r"c:\Users\user\Downloads\IMG-20240112-WA0004.jpg").convert()
-    sketchup_board = pygame.image.load(r"c:\Users\user\Downloads\IMG-20240121-WA0009.jpg").convert()
+    moola = pygame.image.load("stackofmoney.jpg").convert()
+    sketchup_board = pygame.image.load("Monopolyboard.jpg").convert()
     rev_virtual_rect = pygame.Rect(485, 577, 92, 92)
 
     # functions to displays text/image
