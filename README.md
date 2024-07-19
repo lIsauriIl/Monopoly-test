@@ -1,4 +1,4 @@
-# Monopoly-test
+# Waterloo Monopoly
 Note: This project is in progress.
 
 This is a simplified version of Monopoly but with a twist! Instead of property tiles being places in the UK, they are buildings in the University of Waterloo. The purpose of the game is to provide a fun way for incoming first years to learn about the different buildings and places in UWaterloo.
